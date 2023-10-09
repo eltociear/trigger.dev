@@ -1,5 +1,11 @@
 # internal-platform
 
+## 2.1.10
+
+### Patch Changes
+
+- 59a94c71: Allow task property values to be blank, but strip them out before persisting them
+
 ## 2.1.9
 
 ### Patch Changes

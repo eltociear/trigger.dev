@@ -1,5 +1,13 @@
 # create-trigger
 
+## 2.1.10
+
+### Patch Changes
+
+- c070e78d: allow users to update trigger-dev packages to a specific version
+- be9b5113: allow CLI dev to use injected environment variable
+- b12bc604: remove unused envFile param in sendEvent.ts cmd
+
 ## 2.1.9
 
 ### Patch Changes
